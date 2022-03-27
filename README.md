@@ -1,2 +1,2 @@
 # Voice-Based-Form-Filling-Android-Application
-I have used Jsoup and simple web scrapping to open a form, extract its fields and then fill them using voice typing. I still cannot extract all fields of a form, but i've doen this project for learning android studio. There are no such projects available on github(Atleast i couldn't find any). So, I am sharing this one with everyone if they want to develop it on their own. 
+I have used Jsoup and simple web scrapping to open a form, extract its fields and then fill them using voice-based typing. I have done this project as a part of learning android studio.
